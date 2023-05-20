@@ -1,10 +1,9 @@
-import { createApp } from 'vue'
-import './style.css'
-import App from './App.vue'
+import { createApp } from "vue";
+import "./style.css";
+import App from "./App.vue";
 
-function nihao()
-{
-    console.log("nihaoa  app")
+function nihao() {
+  console.log("nihaoa  app");
 }
 
-createApp(App).mount('#app')
+createApp(App).mount("#app");
