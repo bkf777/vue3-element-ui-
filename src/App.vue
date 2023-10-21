@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <h2>this is APP</h2>
-  </div>
+  <div></div>
+  <router-view />
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";
